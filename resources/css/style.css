@@ -1,0 +1,13 @@
+.header {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  width: 100%;
+  background-color: skyblue;
+}
+
+.nav {
+  list-style: none;
+  display: inline-flex;
+}
